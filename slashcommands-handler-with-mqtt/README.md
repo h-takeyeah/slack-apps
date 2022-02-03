@@ -1,6 +1,6 @@
 # Slash Commands Handler with MQTT
 
-*Computer A* does not have any global IP but information which is calculated at this computer is needed to respond to your Slash Commands.
+*Devices* does not have any global IP but information which is calculated at this computer is needed to respond to your Slash Commands.
 
 Using Pub/Sub is good choice  when your Slash Commands cannot respond until
 
