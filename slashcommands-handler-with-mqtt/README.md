@@ -1,8 +1,12 @@
 # Slash Commands Handler with MQTT
 
-*Devices* does not have any global IP but information which is calculated at this computer is needed to respond to your Slash Commands.
+*Devices* does not have any global IP but information which is calculated by these *devices* is needed to respond to your Slash Commands.
 
-Using Pub/Sub is good choice  when your Slash Commands cannot respond until
+Using Pub/Sub model is good choice.
+
+## Interaction flow
+
+Slash Commands are handled through the process below.
 
 > - A user in Slack types in the message box with the command, and submits it.
 > - A payload is sent via an HTTP POST request to your app.
