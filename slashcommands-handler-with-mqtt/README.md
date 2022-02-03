@@ -11,7 +11,8 @@ Using Pub/Sub is good choice  when your Slash Commands cannot respond until
 
 `main.py` is responsible for the part that returns the message. This script will be placed at *"Devices"*(right bottom corner of the figure below).
 
-![]()
+![slashcommand-with-mqtt](https://user-images.githubusercontent.com/61489178/152280378-325a3336-e9d3-4a0a-9443-748c71c86b86.jpg)
+
 
 ## References
 
